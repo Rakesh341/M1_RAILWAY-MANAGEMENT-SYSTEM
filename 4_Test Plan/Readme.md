@@ -1,6 +1,7 @@
-## TEST PLAN:
+# TEST PLAN:
 
-# High level test plan
+## High level test plan
+
 | ----- | -------------------------------------------------------- | ----- | ----- | ---------- |
 | Test ID | Description | Expected Input | Expected Output | Actual Output | Type Of Test |
 | H_01 | Check if the Management selects an option from the available choices,if not from choice given it will break | SUCCESS | SUCCESS | Requirement based |	
