@@ -53,23 +53,23 @@
 
 ## High Level Requirements:
 
- | ID | | Description | | Category	| | Status |
- |---- | | -------------------------- | |------| | ----- |
-| HR01 | | Management should be able to select the choice |	| Techincal |	| TBD-S1 |
-| HR01 | | Management should be able to enter Train names |	| Techincal |	| TBD-S1 |
-| HR02 | | Management should be able to enter Passenger names |	Techincal |	TBD-S1 |
-| HR03 | | Management should be able to enter PNR numbers |	Techincal| | TBD-S1 |
-| HR04 | | Management should be able to enter Train numbers | Techincal| | TBD-S1 |
-| HR05 | | Details should be sorted according to selected case | |	Techincal |	| TBD-S1 |
+| ID | Description | Category | Status |
+| ---- | -------------------------- | ------ | ----- |
+| HR01 | Management should be able to select the choice | Techincal | TBD-S1 |
+| HR01 | Management should be able to enter Train names | Techincal | TBD-S1 |
+| HR02 | Management should be able to enter Passenger names | Techincal | TBD-S1 |
+| HR03 | Management should be able to enter PNR numbers | Techincal | TBD-S1 |
+| HR04 | Management should be able to enter Train numbers | Techincal | TBD-S1 |
+| HR05 | Details should be sorted according to selected case |	Techincal | TBD-S1 |
 
 ## Low level Requirements:
 
-| ID | | Description |	| HLR ID |	| Status (Implemented/Future) |
-| ---- | | -------------------------------------- | | ---- | | ----- |
-| LR01 | | Management should be able to select the choice |	| HR01 |	| TBD-S1 |
-| LR02 | | Management should be able to select choice 1 i.e Train numbers using Bubble Sort Algorithm 	| HR02 |	| TBD-S1 |
-| LR03 | | Management should be able to select choice 2 i.e Train names using Selection sort algorithm | HR02 |	| TBD-S1 |
-| LR04 | | Management should be able to select choice 3 i.e Passenger names using Insertion Sort algorithm |	| HR02 |	| TBD-S1 |
-| LR06 | | Management should be able to select choice 4 i.e PNR numbers using Quick Sort algorithm | | HR04 |	| TBD-S1 |
-| LR05 | | Management should be able to Enter number of Passengers,enter Passenger Name,enter PNR Number,enter Train name,enter Train name |	| HR06 |	| TBD-S1 |
-| LR06 | | Details should be sorted according to selected case | HR07 | | TBD-S1 |
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ---- | -------------------------------------- | ---- | ----- |
+| LR01 | Management should be able to select the choice | HR01 | TBD-S1 |
+| LR02 | Management should be able to select choice 1 i.e Train numbers using Bubble Sort Algorithm | HR02 | TBD-S1 |
+| LR03 | Management should be able to select choice 2 i.e Train names using Selection sort algorithm | HR02 | TBD-S1 |
+| LR04 | Management should be able to select choice 3 i.e Passenger names using Insertion Sort algorithm | HR02 | TBD-S1 |
+| LR06 | Management should be able to select choice 4 i.e PNR numbers using Quick Sort algorithm | HR04 | TBD-S1 |
+| LR05 | Management should be able to Enter number of Passengers,enter Passenger Name,enter PNR Number,enter Train name,enter Train name | HR06 | TBD-S1 |
+| LR06 | Details should be sorted according to selected case | HR07 | TBD-S1 |
