@@ -62,6 +62,7 @@
 | HR04 | Management should be able to enter Train numbers | Techincal | TBD-S1 |
 | HR05 | Details should be sorted according to selected case |	Techincal | TBD-S1 |
 
+
 ## Low level Requirements:
 
 | ID | Description | HLR ID | Status (Implemented/Future) |
