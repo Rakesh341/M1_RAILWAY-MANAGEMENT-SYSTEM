@@ -18,7 +18,7 @@ The purpose of this project is to develop “Railway Management System” which 
 
 Railway Management System enables the customer details and travel details as input and sorts all the information using various sorts to arrange them in an organized manner
 
-## SDLC
+## SDLC Activity Based Learning
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2131cd958eae4e6c956900ecedd8e87d)](https://www.codacy.com/gh/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util&amp;utm_campaign=Badge_Grade)
 
 ## code inspector
