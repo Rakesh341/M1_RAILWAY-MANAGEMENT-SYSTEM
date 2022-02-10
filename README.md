@@ -21,6 +21,8 @@ Railway Management System enables the customer details and travel details as inp
 ## SDLC Activity Based Learning
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2131cd958eae4e6c956900ecedd8e87d)](https://www.codacy.com/gh/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util&amp;utm_campaign=Badge_Grade)
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml)
+
 ## code inspector
 ![Screenshot (205)](https://user-images.githubusercontent.com/62551088/153442573-aa6c3862-dd6f-45bb-b592-67fcf92319ad.png)
 
