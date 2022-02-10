@@ -23,6 +23,7 @@ Railway Management System enables the customer details and travel details as inp
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml)
 
+[![Unit Testing - Unity](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/unity.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/unity.yml)
 
 ## code inspector
 ![Screenshot (205)](https://user-images.githubusercontent.com/62551088/153442573-aa6c3862-dd6f-45bb-b592-67fcf92319ad.png)
