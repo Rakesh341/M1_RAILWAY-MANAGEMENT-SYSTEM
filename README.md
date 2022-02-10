@@ -2,6 +2,10 @@
 
 ## Introduction:-
 
+Railway Reservation System consists of various details of different trains and its i.e., Train Name , Train Number , Passenger’s Names & PNR Numbers. So all these names and numbers are to be sorted using Bubble Sort, Insertion Sort, Selection Sort and Quick Sort. Firstly, we take 50 details for each train and develop a pseudo code from the algorithm to sort the train details accordingly. We need to arrange and store all the values in an array data structure. Now the pseudo code needs to be developed into a C Program. We need to run and test it with different Train details, check for errors and fix them.
+
+The first module is to implement sorting of train numbers using the bubble sort. Second module is to implement sorting of train names using selection sort algorithm. Third module is to implement sorting of passenger names (travelling in a train) using insertion sort algorithm. Fourth module is to implement implement sorting of PNR numbers using quick sort algorithm. So we need to sort all the above details using the respective sorting techniques.
+
 ## What is Railway Management System ?
 
 In Railway Management System, we need to sort the various train details into a particular order in order to maintain it in a organised form. So firstly we take all the input details required from the passengers and then sort all the details accordingly. First module includes sorting train numbers using bubble sort. Second module includes sorting train names using selection sort. Third module includes sorting passenger names using insertion sort. And last module includes sorting PNR numbers using quick sort.
