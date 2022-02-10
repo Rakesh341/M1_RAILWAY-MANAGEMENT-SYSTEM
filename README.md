@@ -23,3 +23,12 @@ Railway Management System enables the customer details and travel details as inp
 
 ## code inspector
 ![Screenshot (205)](https://user-images.githubusercontent.com/62551088/153442573-aa6c3862-dd6f-45bb-b592-67fcf92319ad.png)
+
+## Folder Structure
+
+| Folder | Description |
+| --------- | ----------- |
+| 1_Requirements | Documents detailing requirements and research |
+| 2_Design | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_Test_plan |	Documents with test plans and procedures |
