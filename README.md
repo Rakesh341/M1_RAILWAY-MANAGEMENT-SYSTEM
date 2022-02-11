@@ -38,3 +38,8 @@ Railway Management System enables the customer details and travel details as inp
 | 2_Design | Documents specifying design details |
 | 3_Implementation | All code and documentation |
 | 4_Test_plan |	Documents with test plans and procedures |
+
+## Reference
+Greeks for Greeks
+Youtube C programming
+modules C lectures
