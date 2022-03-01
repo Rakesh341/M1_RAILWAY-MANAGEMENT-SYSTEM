@@ -24,6 +24,8 @@ Railway Management System enables the customer details and travel details as inp
 ![code quality](https://api.codiga.io/project/30974/score/svg)
 ![code grade score](https://api.codiga.io/project/30974/status/svg)
 
+[![Build Linux](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/Build.yml)
+
 [![Code Quality - Static Code - Cppcheck](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/cppcheck.yml)
 
 [![Unit Testing - Unity](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/unity.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/unity.yml)
