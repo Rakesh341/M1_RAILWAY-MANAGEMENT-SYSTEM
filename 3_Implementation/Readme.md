@@ -22,22 +22,32 @@
 * Like variables, pointers in C programming have to be declared before they can be used in your program.
 * Pointers can be named anything you want as long as they obey C’s naming rules. A pointer declaration has the following form.
 
- ## syntax:
+ ## syntax
    * data_type * pointer_variable_name;
 
-## Types of Pointers in C:
+## Types of Pointers in C
 * 1.Null Pointer
 * 2.Void Pointer
 * 3.Wild pointer
 * 4.Dangling pointer
 
+## Usage of function pointer
 
+* In the C function pointer is used to resolve the run time-binding. A function pointer is a pointer that stores the address of the function and invokes the function whenever required.
+* In C, we can use function pointers to avoid code redundancy.
+* Unlike normal pointers, a function pointer points to code, not data. Typically a function pointer stores the start of executable code.
+* Unlike normal pointers, we do not allocate de-allocate memory using function pointers.
 
+## Usage of Struct
 
+* A structure is a key word that create user defined data type in C.
+* A structure creates a data type that can be used to group items of possibly different types into a single type.
+* ‘struct’ keyword is used to create a structure. 
+* A structure variable can either be declared with structure declaration or as a separate declaration like basic types.Structure members cannot be initialized with declaration. 
+* Structure members can be initialized using curly braces ‘{}’. For example, following is a valid initialization. 
+* Structure members are accessed using dot (.) operator.
 
-
-
-
+## Usage of typedef
 
 
 
