@@ -58,8 +58,10 @@
 * By convention, uppercase letters are used for these definitions to remind the user that the type name is really a symbolic abbreviation, but you can use lowercase.
 * You can use typedef to give a name to your user defined data types as well. For example, you can use typedef with structure to define a new data type and then use that data type to define structure variables directly
 
-## Syntax:
+## Syntax
 * typedef data_type new_name
+
+
 
 
 ## Here are the below steps to run the code
