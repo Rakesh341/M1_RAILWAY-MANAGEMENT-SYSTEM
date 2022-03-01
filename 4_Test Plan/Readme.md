@@ -17,3 +17,10 @@
 | L_01 | When choosing from the options, check if the input is valid or invalid | Management's Choice | Invalid Message/ Invoke the process | SUCCESS |	Scenario based |
 | L_02 | If valid fill the details of passengers and train like passenger name,train number | Management choice | SUCCESS | SUCCESS |	Scenario based |
 | L_03 | Details are sorted according to selected case | Management choice as an integer | SUCCESS |	SUCCESS |	SUCCESS |
+
+## Best Practices
+
+ * Checked all the possibilities of output
+ * Mentioned all the inputs for better understanding
+ * Presented in tabular form for easy understanding
+ * Both High level and low level Test plans are shown
