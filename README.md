@@ -34,7 +34,7 @@ Railway Management System enables the customer details and travel details as inp
 
 [![Contribution Check - Git Inspector](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/update%20makefile.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/update%20makefile.yml)
 
-[![C/C++ CI](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/C-cpp.yml/badge.svg?event=branch_protection_rule)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/C-cpp.yml)
+[![CI](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/Main.yml/badge.svg)](https://github.com/Rakesh341/M1_RAILWAY-MANAGEMENT-SYSTEM_Util/actions/workflows/Main.yml)
 
 <a href="https://app.codiga.io/public/user/github/Rakesh341">
    <img src="https://api.codiga.io/public/badge/user/github/Rakesh341?style=light" alt="codiga badge" />
