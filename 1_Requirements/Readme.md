@@ -74,3 +74,11 @@
 | LR06 | Management should be able to select choice 4 i.e PNR numbers using Quick Sort algorithm | HR04 | TBD-S1 |
 | LR05 | Management should be able to Enter number of Passengers,enter Passenger Name,enter PNR Number,enter Train name,enter Train name | HR06 | TBD-S1 |
 | LR06 | Details should be sorted according to selected case | HR07 | TBD-S1 |
+
+
+## Best methods followed
+Used functions to decrease dependency on main function.
+Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of raliway management system.
+Printf statements have been placed only wherever necessary to avoid confusions.
+Created header file so that the fuctions can be used else where ever required without any difficulty.
+Unit testing is done to avoid any computational errors.
